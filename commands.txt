@@ -1,0 +1,8 @@
+to make: 
+make all
+
+to run: 
+./quash
+
+to clean:
+make clean 
